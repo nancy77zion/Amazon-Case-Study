@@ -30,6 +30,13 @@ This case study demonstrates how Exploratory Data Analysis (EDA) can be applied 
 
 ---
 
+## 🖼️ **Dashboard Preview**
+
+Below are sample screenshots of the interactive Excel dashboard:
+
+![Dashboard Overview](Amazon-Case-Study/EXCEL DASHBOARD.png)  
+*Figure 1: Screenshot of dashboard*
+
 ## 📈 **Key Findings**
 
 - Categories such as **Toys & Games** and **Office Products** offered the highest average discounts.  
